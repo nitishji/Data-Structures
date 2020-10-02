@@ -1,4 +1,5 @@
 A binary tree is a structure comprising nodes, where each node has the following 3 components:
+Algo
 
     Data element: Stores any kind of data in the node
     Left pointer: Points to the tree on the left side of node
